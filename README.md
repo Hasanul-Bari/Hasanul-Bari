@@ -3,6 +3,10 @@
 
 I am a computer science student and a competitive programmer. I have a lot of passion for software engineering, want to develop technology to help people in a rightful way.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Hasanul-Bari)
+
+
+
 <!--
 **Hasanul-Bari/Hasanul-Bari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
