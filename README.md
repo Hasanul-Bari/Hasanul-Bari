@@ -12,7 +12,7 @@ I am a computer science student and a competitive programmer. I have a lot of pa
 - C++
 - Java
 - SQL
-- Android develpment
+- Android development
 - Web development with HTML, CSS , JavaScript.
 
 ---
