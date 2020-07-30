@@ -17,6 +17,18 @@ I am a computer science student and a competitive programmer. I have a lot of pa
 
 ---
 
+### My competitive programming profiles
+
+<p align="center">
+ 
+ <a href="https://www.linkedin.com/in/hasanul-bari/" target="_blank"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/linkedin.svg" width="100px" height="200px" alt="LinkedIn"></a> &nbsp; &nbsp;
+ <a href="https://www.facebook.com/profile.php?id=100016360997198"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/facebook.svg" width="30px" alt="github"></a> &nbsp; &nbsp;
+ 
+ 
+</p>
+
+---
+
 ### Connect with me
 
 <p align="center">
