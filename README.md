@@ -22,7 +22,7 @@ I am a computer science student and a competitive programmer. I have a lot of pa
 <p align="center">
  
  &nbsp; &nbsp; <a href="https://www.linkedin.com/in/hasanul-bari/" target="_blank"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/codeforces.png" width="200px" height="50px" alt="LinkedIn"></a> &nbsp; &nbsp;
- <a href="https://www.linkedin.com/in/hasanul-bari/" target="_blank"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/codeforces.png" width="200px" height="50px" alt="LinkedIn"></a> &nbsp; &nbsp;
+ <a href="https://www.linkedin.com/in/hasanul-bari/" target="_blank"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/leetcode.png" width="200px" height="50px" alt="LinkedIn"></a> &nbsp; &nbsp;
  <a href="https://www.linkedin.com/in/hasanul-bari/" target="_blank"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/codeforces.png" width="200px" height="50px" alt="LinkedIn"></a> &nbsp; &nbsp;
  <a href="https://www.linkedin.com/in/hasanul-bari/" target="_blank"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/codeforces.png" width="200px" height="50px" alt="LinkedIn"></a> &nbsp; &nbsp;
 
