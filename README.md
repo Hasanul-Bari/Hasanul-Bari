@@ -1,9 +1,11 @@
-### Hi I'm Hasanul Bari 👋
+# Hi I'm Hasanul Bari 👋
 
 ![counter](https://enxxv5waxcx8eo1.m.pipedream.net)
 
-
+### About me
 I am a computer science student and a competitive programmer. I have a lot of passion for software engineering, want to develop technology to help people in a rightful way.
+
+---
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Hasanul-Bari)
 
