@@ -52,7 +52,7 @@ I am a computer science student and a competitive programmer. I have a lot of pa
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Hasanul-Bari)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasanul-Bari&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasanul-Bari&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
