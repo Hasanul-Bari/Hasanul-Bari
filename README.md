@@ -22,7 +22,7 @@ I am a computer science student and a competitive programmer. I have a lot of pa
 <p align="center">
   <a href="https://codeforces.com/profile/hasanhp7" target="_blank"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/codeforces2.png" width="150px" height="50px" alt="Codeforces"></a> &nbsp; &nbsp;
  <a href="https://leetcode.com/hasanul-bari/" target="_blank"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/leetcode.png" width="150px" height="50px" alt="LeetCode"></a> &nbsp; &nbsp;
- <a href="https://www.hackerrank.com/hasanhp7?hr_r=1" target="_blank"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/hackerrank.png" width="150px" height="50px" alt="HackerRank"></a> &nbsp; &nbsp;
+ <a href="https://www.hackerrank.com/Hasanul_Bari?hr_r=1" target="_blank"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/hackerrank.png" width="150px" height="50px" alt="HackerRank"></a> &nbsp; &nbsp;
  <a href="https://www.hackerearth.com/@hasanhp7" target="_blank"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/hackerEarth.jpg" width="150px" height="50px" alt="HackerEarth"></a> &nbsp; &nbsp;
 </p>
 <p align="center">
