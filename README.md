@@ -10,6 +10,7 @@ I am a computer science student and a competitive programmer. I have a lot of pa
 ### Programming languages and tools I have experience in
 - C
 - C++
+- Python
 - Java
 - SQL
 - Android app development
