@@ -40,7 +40,7 @@ I am a computer science student and a competitive programmer. I have a lot of pa
 <p align="center">
  <a href="mailto:hasanul.bari.hasan96@gmail.com"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
  <a href="https://www.linkedin.com/in/hasanul-bari/" target="_blank"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://t.me/hasanulbari" target="_blank"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/telegram.svg" width="55px" alt="Telegram"></a> &nbsp; &nbsp;
+  <a href="https://t.me/hasanulbari" target="_blank"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
  <a href="https://www.facebook.com/profile.php?id=100016360997198"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/facebook.svg" width="30px" alt="github"></a> &nbsp; &nbsp;
  <a href="https://wa.link/f8w929"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/whatsapp.svg" width="30px" alt="github"></a> &nbsp; &nbsp;
  <a href="https://github.com/Hasanul-Bari"><img src="https://github.com/Hasanul-Bari/Hasanul-Bari/blob/master/logo/github.svg" width="30px" alt="github"></a> &nbsp; &nbsp;
