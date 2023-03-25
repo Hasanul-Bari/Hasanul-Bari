@@ -3,7 +3,7 @@
 ![counter](https://enxxv5waxcx8eo1.m.pipedream.net)
 
 ### About me
-I am a computer science student and a competitive programmer. I have a lot of passion for software engineering, want to develop technology to help people in a rightful way.
+I am a software engineer, competitive programmer and research enthusiast. I want to develop technology to help people in a rightful way.
 
 ---
 
