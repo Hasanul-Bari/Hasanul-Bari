@@ -3,7 +3,7 @@
 ![counter](https://enxxv5waxcx8eo1.m.pipedream.net)
 
 ### About me
-I am a software engineer, competitive programmer and research enthusiast. I want to develop technology to help people in a rightful way.
+I am currently working as a software engineer at Samsung R&D Institute Bangladesh. I am a competitive programmer and research enthusiast. I want to develop technology to help people in a rightful way.
 
 ---
 
